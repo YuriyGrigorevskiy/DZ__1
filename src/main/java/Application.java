@@ -21,6 +21,7 @@ public class Application {
         b.setWeight(6);
 
         a.liveAnotherDay();
+        
 
         for (String result1:Kotik.result) {
             System.out.println(result1);
